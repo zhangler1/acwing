@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T13:37:02.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="uCBD_V9tr_9rz-fFJhmK" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:37:26.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Nej9T-JczLrWlOMmorGn" version="17.4.0" type="github">
   <diagram id="O62AIyuTe9ypjCqLER9u" name="Page-1">
     <mxGraphModel dx="1037" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A0wgUGKNPyIViKLQCoQg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00B336;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="406" width="303.8" height="140" as="geometry" />
+          <mxGeometry x="269" y="406" width="303.8" height="140" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-5" target="A0wgUGKNPyIViKLQCoQg-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-5" value="文本句法分析" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=rgba(0, 0, 0, 1);labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/devops/release_management.svg;fontFamily=Helvetica;strokeColor=rgba(0, 0, 0, 1);fillColor=rgba(255, 255, 255, 1);" vertex="1" parent="1">
-          <mxGeometry x="640" y="55" width="120" height="60" as="geometry" />
+          <mxGeometry x="499" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-8" target="A0wgUGKNPyIViKLQCoQg-5">
           <mxGeometry relative="1" as="geometry" />
@@ -20,65 +20,68 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-8" value="专利数据库" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=rgba(0, 0, 0, 1);labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/analytics/data_integration.svg;fontFamily=Helvetica;strokeColor=rgba(0, 0, 0, 1);strokeWidth=2;fillColor=rgba(255, 255, 255, 1);" vertex="1" parent="1">
-          <mxGeometry x="512.05" y="50" width="87.5" height="70" as="geometry" />
+          <mxGeometry x="371.04999999999995" y="50" width="87.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-10" target="A0wgUGKNPyIViKLQCoQg-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-10" value="关键词提取" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=rgba(0, 0, 0, 1);labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/ImageService.svg;fontFamily=Helvetica;strokeColor=rgba(0, 0, 0, 1);fillColor=rgba(255, 255, 255, 1);" vertex="1" parent="1">
-          <mxGeometry x="640" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="499" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-11" value="专利文本表示" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=rgba(0, 0, 0, 1);labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/applications/annotate.svg;fontFamily=Helvetica;strokeColor=rgba(0, 0, 0, 1);strokeWidth=2;fillColor=rgba(255, 255, 255, 1);" vertex="1" parent="1">
-          <mxGeometry x="350" y="55" width="120" height="60" as="geometry" />
+          <mxGeometry x="209" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-13" target="A0wgUGKNPyIViKLQCoQg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-13" value="技术基因表示" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Genomics_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="535" y="170" width="41.6" height="80" as="geometry" />
+          <mxGeometry x="394" y="170" width="41.6" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-15" target="A0wgUGKNPyIViKLQCoQg-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-15" value="进化算法" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Machine_Learning_Studio_Web_Service_Plans.svg;" vertex="1" parent="1">
-          <mxGeometry x="531" y="319" width="50" height="50" as="geometry" />
+          <mxGeometry x="390" y="319" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-16" value="评价" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-17" target="A0wgUGKNPyIViKLQCoQg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-17" value="价值度" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Money-Increase-128.png" vertex="1" parent="1">
-          <mxGeometry x="671" y="315.5" width="58" height="58" as="geometry" />
+          <mxGeometry x="530" y="315.5" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-18" value="评价" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-19" target="A0wgUGKNPyIViKLQCoQg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-19" value="新颖性&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightbulb-128.png" vertex="1" parent="1">
-          <mxGeometry x="390" y="314.5" width="59" height="59" as="geometry" />
+          <mxGeometry x="249" y="314.5" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-20" value="&amp;nbsp;技术机会发现" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Search_Grid.svg;" vertex="1" parent="1">
-          <mxGeometry x="522" y="419" width="68" height="67" as="geometry" />
+          <mxGeometry x="381" y="419" width="68" height="67" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-21" value="企业" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.enterprise;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="632" y="449" width="50" height="54" as="geometry" />
+          <mxGeometry x="491" y="449" width="50" height="54" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-22" value="高校" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-1/16/education-degree-course-university-college-128.png" vertex="1" parent="1">
-          <mxGeometry x="442" y="449" width="58" height="58" as="geometry" />
+          <mxGeometry x="301" y="449" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-24" target="A0wgUGKNPyIViKLQCoQg-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="300" />
-              <mxPoint x="556" y="300" />
+              <mxPoint x="269" y="300" />
+              <mxPoint x="415" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="A0wgUGKNPyIViKLQCoQg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-24" target="A0wgUGKNPyIViKLQCoQg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-24" value="技术路线图" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Event_Grid_Topics.svg;" vertex="1" parent="1">
-          <mxGeometry x="380" y="170" width="60" height="60" as="geometry" />
+          <mxGeometry x="239" y="170" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0wgUGKNPyIViKLQCoQg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="A0wgUGKNPyIViKLQCoQg-11" target="A0wgUGKNPyIViKLQCoQg-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="110" as="sourcePoint" />
-            <mxPoint x="410" y="300" as="targetPoint" />
+            <mxPoint x="269" y="110" as="sourcePoint" />
+            <mxPoint x="269" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
